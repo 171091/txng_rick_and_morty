@@ -1,0 +1,20 @@
+.App {
+    text-align: center;
+    
+ }
+ 
+ html{
+    height: auto;
+    width: auto;
+    background-image: url("./images/paisaje_1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+ }
+ button{
+    border: none;
+    background:none;
+    
+ }
+ 
